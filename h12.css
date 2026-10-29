@@ -1,0 +1,10 @@
+#main{
+    justify-content: center;
+    align-items: center;
+    /* margin: 100vh; */
+    margin-left: 350px;
+    border: 2px solid black;
+    width: 300px;
+    text-align: center;
+
+}
